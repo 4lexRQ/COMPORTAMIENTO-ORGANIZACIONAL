@@ -5,7 +5,6 @@ Para iEduNote, el comportamiento organizacional es el “estudio del comportamie
 “El comportamiento organizacional está directamente relacionado con la comprensión, predicción y control del comportamiento humano en las organizaciones”. Esta definición la entregó Fred Luthans. Él es profesor de administración especializado en comportamiento organizacional.
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
-  intent="WELCOME"
   chat-title="ComportamientoOrganizacional"
   agent-id="d6966e29-6a4d-4267-9d1a-4237bae773cf"
   language-code="es"
